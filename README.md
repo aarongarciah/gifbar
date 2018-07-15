@@ -1,4 +1,7 @@
 # GiphyBar
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/joshghent/giphy-bar.svg)](https://greenkeeper.io/)
+
 A Mac Menu bar for getting giphy gif's in a mac menu bar application!
 
 ## Download
